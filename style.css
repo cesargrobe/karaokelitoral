@@ -16,6 +16,7 @@ header {
     font-size: 2em;
     margin: 0 0 1em;
     clear: left;
+    width: 120px;
 }
 
 .principal {
@@ -305,3 +306,4 @@ img ~ p {
     }
 
 }
+
