@@ -64,12 +64,11 @@ header {
     font-weight: bold;
 }
 .header-logo {
-    width: 70px;
+    width: 90px;
     margin-right: 10px;
 }
 
 nav {
-    position: absolute;
     top: 110px;
     right: 0;
 }
