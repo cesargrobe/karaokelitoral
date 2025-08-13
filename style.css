@@ -16,7 +16,7 @@ header {
     font-size: 2em;
     margin: 0 0 1em;
     clear: left;
-    width: 120px;
+    width: 100%;
 }
 
 .principal {
@@ -123,10 +123,6 @@ nav a:hover {
     margin-top: 10px;
 }
 
-main {
-    
-}
-
 .beneficios {
     padding: 3em 0;
     background: #888888;
@@ -152,7 +148,7 @@ main {
 }
 
 .itens:before {
-    content: "✔️";
+    content: "✓";
 }
 
 .imagem-beneficios {
