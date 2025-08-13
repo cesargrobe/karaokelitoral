@@ -129,11 +129,15 @@ nav a:hover {
 }
 
 .conteudo-beneficios {
+    display: flex;
+    align-items: center;
+    gap: 20px;
     width: 640px;
     margin: 0 auto;
 }
 
 .lista-beneficios {
+    list-style: none;
     width: 40%;
     display: inline-block;
     vertical-align: top;
