@@ -137,6 +137,9 @@ nav a:hover {
     font-size: 34px;
 }
 
+.imagem-produtos {
+    width: 300px;
+}
 .produto-descricao {
     font-size: 18px;
 }
