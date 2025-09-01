@@ -11,7 +11,7 @@
     flex-direction: column;
     align-items: center;
     gap: 20px;
-    width: 540px;
+    width: auto;
     margin: 0 auto;
 }
 
@@ -53,6 +53,6 @@
 @media screen and (min-width: 480px) {
     .conteudo-beneficios {
        display: flex;
-        width: auto;
+       width: 640px;
     }
 }
