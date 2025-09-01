@@ -57,9 +57,13 @@ nav a:hover {
     #nome_empresa {
         display: flex;
     }
+
+    nav ul {
+        display: grid;
+    }
 }
 
 /* Estilização para Desktop (telas maiores)   */
-@media screen and (max-width: 1080px) {
+@media screen and (min-width: 1080px) {
 
 }
