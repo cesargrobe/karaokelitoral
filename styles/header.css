@@ -14,7 +14,7 @@ header {
 }
 
 .logo {
-    display: none;
+    display: flex;
     align-items: center;
     font-size: 1.5em;
     font-weight: bold;
@@ -23,6 +23,10 @@ header {
 .header-logo {
     width: 90px;
     margin-right: 10px;
+}
+
+.nome_empresa {
+    display: none;
 }
 
 nav {
@@ -50,8 +54,8 @@ nav a:hover {
 
 /* Estilização para Tablets (telas médias)    */
 @media screen and (max-width: 480px) {
-    .logo {
-        display: flex;
+    .nome_empresa {
+    display: inline;
     }
 }
 
