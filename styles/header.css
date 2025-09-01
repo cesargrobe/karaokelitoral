@@ -25,7 +25,7 @@ header {
     margin-right: 10px;
 }
 
-.nome_empresa {
+#nome_empresa {
     display: none;
 }
 
@@ -54,8 +54,8 @@ nav a:hover {
 
 /* Estilização para Tablets (telas médias)    */
 @media screen and (max-width: 480px) {
-    .nome_empresa {
-    display: inline;
+    #nome_empresa {
+        display: flex;
     }
 }
 
