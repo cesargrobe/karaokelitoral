@@ -34,6 +34,10 @@ nav {
     right: 0;
 }
 
+nav ul {
+        display: grid;
+}
+
 nav li {
     display: inline;
     margin: 0 0 0 15px;
@@ -58,9 +62,7 @@ nav a:hover {
         display: flex;
     }
 
-    nav ul {
-        display: grid;
-    }
+    
 }
 
 /* Estilização para Desktop (telas maiores)   */

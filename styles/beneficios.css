@@ -1,3 +1,4 @@
+/* Estilização para telas menores */
 .beneficios {
     padding: 3em 0;
     background: var(--cor-secundaria);
@@ -53,6 +54,6 @@
     }
 
     .imagembeneficios {
-    width: 60%;
-}
+        width: 60%;
+    }
 }
