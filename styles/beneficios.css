@@ -59,6 +59,9 @@
 }
 
 @media screen and (min-width: 480px) {
+    .conteudo-beneficios {
+       width: 640px;
+    }
     .video {
         width: 560px;
     }
