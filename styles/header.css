@@ -57,7 +57,7 @@ nav a:hover {
 }
 
 /* Estilização para Tablets (telas médias)    */
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 645px) {
     #nome_empresa {
         display: flex;
     }
