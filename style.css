@@ -53,9 +53,7 @@ img ~ p {
 
 
 @media screen and (max-width: 480px) {
-    .caixa, .principal, .mapa-conteudo, .video {
-        width: auto;
-    }
+       
 
     h1 {
         text-align: center;
