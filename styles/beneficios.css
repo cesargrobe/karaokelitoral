@@ -5,6 +5,7 @@
 }
 
 .conteudo-beneficios {
+    display: flex;
     flex-direction: column;
     width: 0 auto;
 }
