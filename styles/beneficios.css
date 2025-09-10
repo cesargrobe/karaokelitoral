@@ -13,7 +13,7 @@
 
 .lista-beneficios {
     list-style: none;
-    width: 40%;
+    width: 70%;
     display: inline-block;
     vertical-align: top;
 }
@@ -54,7 +54,7 @@
     }
 
     .imagembeneficios {
-        width: 60%;
+        width: 70%;
     }
 }
 

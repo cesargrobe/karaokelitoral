@@ -34,7 +34,9 @@
 }
 
 .imagem-produtos {
-    width: 300px;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
 }
 .produto-descricao {
     font-size: 18px;
