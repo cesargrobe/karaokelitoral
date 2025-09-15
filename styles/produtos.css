@@ -19,7 +19,7 @@
     padding: 0;
 }
 
-card-produto {
+.card-produto {
     text-align: center;
     padding: 30px 20px;
     box-sizing: border-box;
